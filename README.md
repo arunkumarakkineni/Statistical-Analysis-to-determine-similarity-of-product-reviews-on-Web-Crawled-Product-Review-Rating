@@ -10,21 +10,6 @@ Null Hypothesis: The fraction of reviewers favoring 5 star ratings is the same a
 Hypothesis Test: The Chi square test methodology shown in example 14.4, pg 731 of the textbook “Mathematical Statistics With Applications” is used to evaluate whether the null hypothesis is acceptable with 95% confidence. In this test, the critical value with alpha of 0.05 and (r-1)*(c-1) or (5-1)*(3-1) = 8 degrees of freedom for the Chi square statistic is calculated. The Chi square statistic is used in lieu of other statistical tests such as the t-test or the z-test given the fact that we are dealing with proportions and categorical data. 
 
 
-
-Table 1. An Illustration of the test sample with number of reviews for each rating category
-
-                                     5       3
-Chi square score = Σ   Σ (nij  - E(nij ))^2/(E(nij ))
-                                     i=1 j=1
-E(11) = 300*1000/3000
-E(12) = 300*1000/3000
-E(13) = 300*1000/3000 
-E(22) = 250*1000/3000
-.
-.
-.
-E(53) = 1250*1000/3000
-
 Tools Used: Pyspark, pandas, matplotlib, numpy, beautiful soup web scrapping tools, scipy stats libraries, NLTK natural language processing libraries.
 
 
