@@ -1,4 +1,4 @@
-# Statistical Analysis of 5 Star Product review distribution to test whether the distributions are similar or not
+# Statistical Analysis of 5 Star product review ratings distribution to test whether the distributions are similar or not
 Sentiment Analysis of Online reviews to test whether Online product reviews are trustworthy
 
 Problem Statement: Our objective is to certify whether the ratings published by EBAY for its products grouped by similar product categories under best sellers with the same published rating are reliable or does the user need to be suspicious about the published ratings for the group of top 2 or more products with similar ratings in a given product category. 
