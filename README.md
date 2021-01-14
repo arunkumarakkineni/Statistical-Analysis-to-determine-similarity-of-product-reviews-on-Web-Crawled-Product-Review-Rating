@@ -10,6 +10,8 @@ Null Hypothesis: The distribution of star ratings is the same across all the bra
 Hypothesis Test: The Chi square test methodology shown in example 14.4, pg 731 of the textbook “Mathematical Statistics With Applications” is used to evaluate whether the null hypothesis is acceptable with 95% confidence. In this test, the critical value with alpha of 0.05 and (r-1)*(c-1) or (5-1)*(3-1) = 8 degrees of freedom for the Chi square statistic is calculated. The Chi square statistic is used in lieu of other statistical tests such as the t-test or the z-test given the fact that we are dealing with proportions and categorical data. 
 
 
-Tools Used: Python. Scipy, pandas, matplotlib, numpy, seaborn, beautifulsoup.
+Tools Used: Python. Scipy, pandas, matplotlib, numpy, seaborn, beautifulsoup, mongoDB.
 
+
+![](images/architecture.jpeg)
 
