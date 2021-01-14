@@ -13,4 +13,4 @@ Hypothesis Test: The Chi square test methodology shown in example 14.4, pg 731 o
 Tools Used: Python. Scipy, pandas, matplotlib, numpy, seaborn, beautifulsoup, mongoDB.
 
 
-![](images/architecture.jpeg)
+![](images/architecture.jpg)
