@@ -14,4 +14,3 @@ Tools Used: Python. Scipy, pandas, matplotlib, numpy, seaborn, beautifulsoup, mo
 
 
 ![](images/architecture.jpeg)
-
